@@ -20,7 +20,7 @@
 		<aside class="linkedin">
 		<img src="pics/linkedin.png" width="60">
 		</aside>
-	<a href="https://discord.gg/afYYqqCu">
+	<a href="https://discord.gg/FVVhEG5y2g">
 		<aside class="discord">
 		<img src="pics/discord.png" width="60">
 		</aside>
