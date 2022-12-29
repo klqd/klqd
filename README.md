@@ -32,9 +32,16 @@
 
 
  
- </details>
+</details>
  
- <details close="true">
+<details close="true">
   <summary><b> 🚀&nbsp;Links</b></summary>
-A gif search engine: https://gerryleng.github.io/
+  <p>
+	  <br />
+	  <br />
+  A gif search engine: https://gerryleng.github.io/ 
+	  <br />
+	  <br />
+  A spotify playlist: https://open.spotify.com/playlist/0p6VRj7mPOalHBEqMApoBP?si=e3e8e126462b4edd
+  </p>
 </details>
