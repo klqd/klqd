@@ -36,11 +36,5 @@
  
  <details close="true">
   <summary><b> 🚀&nbsp;Links</b></summary>
-  
-<div align="center">
-    
-  <div>
-  
-  
-
+A gif search engine: https://gerryleng.github.io/
 </details>
