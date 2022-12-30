@@ -39,9 +39,9 @@
   <p>
 	  <br />
 	  <br />
-  A gif search engine: https://gerryleng.github.io/ 
+  My gif search engine: https://gerryleng.github.io/ 
 	  <br />
 	  <br />
-  A spotify playlist: https://open.spotify.com/playlist/0p6VRj7mPOalHBEqMApoBP?si=e3e8e126462b4edd
+  My spotify playlist: https://open.spotify.com/playlist/0p6VRj7mPOalHBEqMApoBP?si=e3e8e126462b4edd
   </p>
 </details>
