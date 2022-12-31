@@ -1,3 +1,4 @@
+![Profile View Counter](https://komarev.com/ghpvc/?username=glyb)
 <img align='right' height='200' src='pics/art.gif' alt='Hi'>
 <h1>Hey there👋 I'm <a href="https://github.com/glyb" target="_blank">glyb</a></h1>
 <a href="https://discord.gg/FVVhEG5y2g">
