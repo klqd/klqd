@@ -31,10 +31,9 @@
 </details>
  
 <details close="true">
-  <summary><b> 🚀&nbsp;</b></summary>
+  <summary><b> 😧About me&nbsp;</b></summary>
   <p>
- <h3> My gif search engine:<h3/> https://gerryleng.github.io/
-	<br />
-	  <br />
+
+
   </p>
 </details>
