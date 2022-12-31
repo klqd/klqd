@@ -4,10 +4,6 @@
 <h1>Links</h1>
 
   <footer class="footer">
-	<a target="_blank" href="https://www.facebook.com/profile.php?id=100089282311710">
-		<aside class="facebook">
-		<img src="pics/facebook.png" width="60">
-		</aside>
 	<a target="_blank" href="https://telegram.me/GerryLeng">
 		<aside class="telegram">
 		<img src="pics/telegram.png" width="60">
