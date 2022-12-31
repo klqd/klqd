@@ -8,9 +8,6 @@
 <details close="true">
   <summary align="right"><b>more</b></summary>	
   <div align="right">
-    
-  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=glyb&theme=blue-green)
-  
   <a href="https://discord.gg/FVVhEG5y2g">
   <img alt="Discord" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
   </a>
@@ -22,13 +19,8 @@
   </a>
   <a href="#">
   <img alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-  </a>
-  
-  
-  
-    
-  </div>
-  
+  </a>   
+  </div> 
 </details>
 
 
