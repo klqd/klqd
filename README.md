@@ -6,13 +6,16 @@
 <br />
 
 <details close="true">
-  <summary><b>more&nbsp;</b></summary>	
-  
+  <summary align="right"><b>more</b></summary>	
+  <div align="right">
+    
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=glyb&theme=blue-green)
   
   <a href="https://discord.gg/FVVhEG5y2g">
-  <img align="left" alt="Discord" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img alt="Discord" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
+    
+  </div>
   
 </details>
 
