@@ -24,7 +24,10 @@
   </a>
   <a href="#">
   <img alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-  </a>   
+  </a>  
+   
+  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=glyb&theme=blue-green)
+  
   </div> 
 </details>
 
