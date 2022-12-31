@@ -4,23 +4,23 @@
 <h1>Links</h1>
 
   <footer class="footer">
-	<a href="https://www.facebook.com/profile.php?id=100089282311710">
+	<a target="_blank" href="https://www.facebook.com/profile.php?id=100089282311710">
 		<aside class="facebook">
 		<img src="pics/facebook.png" width="60">
 		</aside>
-	<a href="https://telegram.me/GerryLeng">
+	<a target="_blank" href="https://telegram.me/GerryLeng">
 		<aside class="telegram">
 		<img src="pics/telegram.png" width="60">
 		</aside>
-	<a href="https://www.instagram.com/gerry.leng/">
+	<a target="_blank" href="https://www.instagram.com/gerry.leng/">
 		<aside class="instagram">
 		<img src="pics/instagram.png" width="60">
 		</aside>
-	<a href="https://www.linkedin.com/in/gerry-leng-8b71b4260/">
+	<a target="_blank" href="https://www.linkedin.com/in/gerry-leng-8b71b4260/">
 		<aside class="linkedin">
 		<img src="pics/linkedin.png" width="60">
 		</aside>
-	<a href="https://discord.gg/FVVhEG5y2g">
+	<a target="_blank" href="https://discord.gg/FVVhEG5y2g">
 		<aside class="discord">
 		<img src="pics/discord.png" width="60">
 		</aside>
@@ -31,7 +31,8 @@
 </details>
  
 <details close="true">
-  <summary><b> 😧About me&nbsp;</b></summary>
+  <summary><b>About me&nbsp;</b></summary>
+<h1> 😧<h1/>
   <p>
 
 
