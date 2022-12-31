@@ -24,10 +24,6 @@
 		<aside class="discord">
 		<img src="pics/discord.png" width="60">
 		</aside>
-	<a href="https://twitter.com/user49994183">
-		<aside class="twitter">
-		<img src="pics/twitter.png" width="60">
-		</aside>
 	</a>
 
 
