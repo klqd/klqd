@@ -1,4 +1,4 @@
-<img align='right' height='200' style="margin-right:20px" src='pics/sn.png' alt='Social Networks'>
+<img align='right' height='200' src='pics/sn.png' alt='Social Networks'>
 
 <br>
 <h1>Links</h1>
@@ -13,16 +13,11 @@
 		<img src="pics/d.png" width="40">
 		</aside>
 	</a>
-
-
- 
 </details>
  
 <details close="true">
   <summary><b>About me&nbsp;</b></summary>
-<h1> 😧<h1/>
   <p>
-
-
+	  TAB
   </p>
 </details>
