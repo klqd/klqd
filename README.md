@@ -5,7 +5,7 @@
 
 <br />
 
-<img align='right' height='200' src='pics/a.gif' alt='more'>
+<img align='left' height='300' src='pics/a.gif' alt='more'>
 
 <details close="true">
   <summary align="right"><b>more</b></summary>	
