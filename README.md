@@ -20,8 +20,6 @@
 <details close="true">
   <summary><b>more</b></summary>
   
-  <!-- Coding Languages -->
-  
   <!--START_SECTION:waka-->
 
 ```text
