@@ -37,8 +37,8 @@
 <details close="true">
   <summary><b> 🚀&nbsp;Links</b></summary>
   <p>
-	  <br />
-	  <br />
  <h3> My gif search engine:<h3/> https://gerryleng.github.io/
+	<br />
+	  <br />
   </p>
 </details>
