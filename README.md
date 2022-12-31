@@ -16,6 +16,11 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=glyb)
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 
