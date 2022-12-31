@@ -15,20 +15,8 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=glyb)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=glyb&show_icons=true)
-
-<details close="true">
-  <summary><b>more</b></summary>
-  
-  <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-</details>
 
 
 
