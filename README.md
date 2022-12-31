@@ -13,6 +13,8 @@
   <img alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
   </a>  
 
+![](https://visitor-badge.glitch.me/badge?page_id=glyb)
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=glyb&show_icons=true)
 
 <details close="true">
