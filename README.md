@@ -7,6 +7,9 @@
 
 <details close="true">
   <summary align="right"><b>more</b></summary>	
+  
+  <br />
+  
   <div align="right">
   <a href="https://discord.gg/FVVhEG5y2g">
   <img alt="Discord" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
