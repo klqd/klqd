@@ -18,10 +18,12 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=glyb&show_icons=true)
 
 <details close="true">
-  <summary><b>more</b></summary>	
+  <summary><b>more</b></summary>
+  
+  <!-- Coding Languages -->
   
   <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+  <!--END_SECTION:waka-->
 
 </details>
 
