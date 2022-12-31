@@ -17,6 +17,8 @@
 <details close="true">
   <summary><b>stats&nbsp;</b></summary>	
   
+  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=glyb&theme=blue-green)
+  
 </details>
 
 
