@@ -8,14 +8,17 @@
   </a>
 </div>
 
-
-<!--START_SECTION:waka-->
+<details close="true">
+  <summary><b>stats</b></summary>
+ <!--START_SECTION:waka-->
 
 ```text
 No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+ </details>
+
 
 
 
