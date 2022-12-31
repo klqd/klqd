@@ -4,7 +4,6 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=glyb&show_icons=true)
 
 <br />
-<br />
 
 <details close="true">
   <summary><b>more&nbsp;</b></summary>	
