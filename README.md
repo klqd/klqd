@@ -1,7 +1,7 @@
 <img align='right' height='160' style="margin-right:20px" src='pics/socialTree.gif' alt='Social Networks'>
 
 <br>
-<h2>Socialize</h2>
+<h1>Socialize</h1>
 
   <footer class="footer">
 	<a href="https://www.facebook.com/profile.php?id=100089282311710">
@@ -39,6 +39,6 @@
   <p>
 	  <br />
 	  <br />
-  My gif search engine: https://gerryleng.github.io/ 
+ <h3> My gif search engine:<h3/> https://gerryleng.github.io/
   </p>
 </details>
