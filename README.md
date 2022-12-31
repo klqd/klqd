@@ -8,14 +8,6 @@
 		<aside class="telegram">
 		<img src="pics/telegram.png" width="60">
 		</aside>
-	<a target="_blank" href="https://www.instagram.com/gerry.leng/">
-		<aside class="instagram">
-		<img src="pics/instagram.png" width="60">
-		</aside>
-	<a target="_blank" href="https://www.linkedin.com/in/gerry-leng-8b71b4260/">
-		<aside class="linkedin">
-		<img src="pics/linkedin.png" width="60">
-		</aside>
 	<a target="_blank" href="https://discord.gg/FVVhEG5y2g">
 		<aside class="discord">
 		<img src="pics/discord.png" width="60">
