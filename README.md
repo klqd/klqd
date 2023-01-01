@@ -7,9 +7,6 @@
   <img alt="LinkedIN" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
 </div>
-
-<details close="true">
-  <summary><b>stats</b></summary>
  <!--START_SECTION:waka-->
 
 ```text
@@ -22,6 +19,9 @@ GitIgnore file                   ▒░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+<details close="true">
+  <summary><b>Blog</b></summary>
+
  </details>
 
 
