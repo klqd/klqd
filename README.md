@@ -1,4 +1,4 @@
-<h1 align="center">Hi <a href="#" target="_blank">there</a> 👋</h1>
+<h1 align="center">Hi <a href="https://glyb.github.io" target="_blank">there</a> 👋</h1>
 <div align="center">
   <a href="https://discord.gg/FVVhEG5y2g">
   <img alt="Discord" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
