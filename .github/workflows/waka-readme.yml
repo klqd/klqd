@@ -14,9 +14,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TIME: false
-          SHOW_PROJECTS: false
-          SHOW_EDITORS: false
-          SHOW_OS: false
           SHOW_TITLE: true
           # following flags are required, only if this is not on
           # profile readme, remove the leading `#` to use them
