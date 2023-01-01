@@ -13,7 +13,12 @@
  <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 25 December 2022 - To: 31 December 2022
+
+Python                           ███████████████████████░░   91.85 %
+HTML                             █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
+JavaScript                       ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+GitIgnore file                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 ```
 
 <!--END_SECTION:waka-->
