@@ -24,9 +24,10 @@ Text                             ░░░░░░░░░░░░░░░�
 <details close="true">
   
   <summary><b>Blog</b></summary>
-
-  nothing here...
   
+  ```  
+  Nothing here...
+  ```
  </details>
 
 
