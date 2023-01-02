@@ -29,7 +29,7 @@ Text                             ░░░░░░░░░░░░░░░�
   </div>
 
 <details close="true">  
-  <summary><b>Blog</b></summary> 
+  <summary><b>Latest blog</b></summary> 
  </details>
 
 
