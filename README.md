@@ -7,6 +7,7 @@
   <img alt="LinkedIN" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
 </div>
+
  <!--START_SECTION:waka-->
 
 ```text
@@ -20,6 +21,7 @@ GitIgnore file                   ▒░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 <details close="true">
+  
   <summary><b>Blog</b></summary>
 
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@glyb/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@glyb/0" alt="Recent Article 0"></a>
