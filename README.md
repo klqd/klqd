@@ -22,13 +22,15 @@ Text                             ░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 <details close="true">
-  
-  <summary><b> 🎵</b></summary>
-  <div align="center">
+ 
+    <div align="center">
  <a href="https://www.data-card-for-spotify.com/card?user_id=31ix4ckou3aao6scmi4bfgrspzim">
   <img src="https://www.data-card-for-spotify.com/api/card?user_id=31ix4ckou3aao6scmi4bfgrspzim" alt="Data Card for Spotify">
 </a>
   </div>
+  
+  <summary><b>Blog</b></summary>
+
   
  </details>
 
