@@ -32,7 +32,7 @@ Text                             ░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<details close="flase">  
+<details close="false">  
   <summary><b>My NEA Projects</b></summary> 
   
   <img width="368" alt="Screenshot 2023-01-03 232642" src="https://user-images.githubusercontent.com/114028212/210458630-b22215cf-1bd5-4cc5-a5b0-641a8428d720.png">
