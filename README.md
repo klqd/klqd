@@ -33,7 +33,7 @@ Text                             ░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <details close="true">  
-  <summary><b>My direction</b></summary> 
+  <summary><b>My NEA Projects</b></summary> 
  </details>
 
 
