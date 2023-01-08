@@ -35,7 +35,7 @@ Markdown                         ░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <details close="false">  
-  <summary><b>wulala</b></summary> 
+  <summary><b></b></summary> 
   
 
 
