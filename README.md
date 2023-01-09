@@ -9,14 +9,6 @@
     ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
   	![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
  </div>
-
-<div align="center">
-  <a href="https://discord.gg/FVVhEG5y2g">
-  <img alt="Discord" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-  </a>
-  <a href="#">
-  <img alt="LinkedIN" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-  </a>
 </div>
 
  <!--START_SECTION:waka-->
