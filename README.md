@@ -22,12 +22,6 @@ Other                            ▒░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<details close="false">  
-  <summary><b></b></summary> 
-  
-
-
- </details>
 
 
 
