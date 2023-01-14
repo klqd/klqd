@@ -9,10 +9,6 @@
     ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
   	![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
  </div>
- 
- <div align="center">
- <a href="www.linkedin.com/in/aleqodi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</div>
 
  <!--START_SECTION:waka-->
 
@@ -25,7 +21,7 @@ Other                            ▒░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-
+ <a href="www.linkedin.com/in/aleqodi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 
 
