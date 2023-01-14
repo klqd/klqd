@@ -9,6 +9,11 @@
     ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
   	![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
  </div>
+ 
+ <div align="center">
+  <a href="www.linkedin.com/in/aleqodi">
+  <img alt="LinkedIN" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a>
 </div>
 
  <!--START_SECTION:waka-->
