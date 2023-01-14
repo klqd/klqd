@@ -11,9 +11,7 @@
  </div>
  
  <div align="center">
-  <a href="www.linkedin.com/in/aleqodi">
-  <img alt="LinkedIN" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-  </a>
+ <a href="www.linkedin.com/in/aleqodi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
  <!--START_SECTION:waka-->
