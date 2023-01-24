@@ -13,10 +13,7 @@
  <!--START_SECTION:waka-->
 
 ```text
-From: 15 January 2023 - To: 21 January 2023
-
-Python                   ████████████████████████▒   97.72 %
-Other                    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
