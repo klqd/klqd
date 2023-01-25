@@ -13,7 +13,9 @@
  <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 17 January 2023 - To: 23 January 2023
+
+Python                   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
