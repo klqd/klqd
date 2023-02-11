@@ -1,4 +1,4 @@
-<h1 align="center">Hi <a href="https://glyb.github.io" target="_blank">there</a> 👋</h1>
+<h1 align="center">Nice to meet <a href="https://glyb.github.io" target="_blank">Me</a> 👋</h1>
 
 <div align="center">
   
