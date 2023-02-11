@@ -18,5 +18,14 @@ Other                    █▓░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+<details close="true">
+
+  <summary><b>More info</b></summary>
+
+  ```  
+  Nothing here...
+  ```
+ </details>
+
 
  
