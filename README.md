@@ -10,10 +10,10 @@
  <!--START_SECTION:waka-->
 
 ```text
-From: 03 February 2023 - To: 09 February 2023
+From: 04 February 2023 - To: 10 February 2023
 
-Python                   █████████████████████░░░░   84.20 %
-Other                    ███▒░░░░░░░░░░░░░░░░░░░░░   12.85 %
+Python                   ███████████████████▒░░░░░   76.92 %
+Other                    ████▓░░░░░░░░░░░░░░░░░░░░   18.73 %
 ```
 
 <!--END_SECTION:waka-->
