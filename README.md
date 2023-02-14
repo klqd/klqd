@@ -23,7 +23,7 @@ Other                    ████▓░░░░░░░░░░░░░�
   <summary><b>More info</b></summary>
 
   ```  
-  Nothin' here...
+  hi
   ```
  </details>
 
