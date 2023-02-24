@@ -19,7 +19,7 @@ No activity tracked
 
 <details close="true">
 
-  <summary><b>More info</b></summary>
+  <summary><b> ⚙️</b></summary>
 
   ```  
 
