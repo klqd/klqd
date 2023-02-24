@@ -22,7 +22,7 @@ No activity tracked
   <summary><b>More info</b></summary>
 
   ```  
-  hi
+
   ```
  </details>
 
